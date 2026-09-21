@@ -204,4 +204,3 @@ The frontend app will launch at `http://localhost:5173`.
 4. **Order History**: Click on your user profile or orders tab to view order details and tracking status.
 
 
-This project is licensed under the **ISC License**. Feel free to use and adapt it for educational and portfolio purposes.
